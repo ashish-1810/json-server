@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Ashish",
+      "lastname": "Soni",
+      "email": "a.soni@gmail.com",
+      "password": "",
+      "DOB": "18/10/1996",
+      "role": "admin"
+    },
+    {
+      "firstname": "Vatsal",
+      "lastname": "Katrodiya",
+      "email": "vk@gmail.com",
+      "password": "vatsal",
+      "DOB": "1998-07-20",
+      "role": "Admin",
+      "id": 2
+    }
+  ]
+}
